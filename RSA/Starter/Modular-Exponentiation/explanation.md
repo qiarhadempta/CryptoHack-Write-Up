@@ -11,5 +11,5 @@ and for decrypting a message, the mathematical behind it is
 m = c^d mod n
 ```
 Later, I'll explain what these numbers mean. It's good to know that this modular exponentiation helps us to build a `trapdoor function`,
-which means it's easy to compute in one direction, but it's extremely hard to reverse it back. For this challenge, I made a [python script](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Starter/Modular-Exponentiation/modular-exponentiation.py) using 
+which means it's easy to compute in one direction, but it's extremely hard to reverse it back. For this challenge, I made a [python script](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Starter/Modular-Exponentiation/solver.py) using 
 `pow(base, exponent, modulus)` to solve it
