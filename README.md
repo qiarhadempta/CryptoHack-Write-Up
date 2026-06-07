@@ -1,3 +1,1 @@
-Documented my learning on cryptography using [CryptoHack](https://cryptohack.org/)
-
-:)
+Decided to learn cryptography coz c2F5YSBtYXUgbWVuYW5nIGdlbWFzdGlr
