@@ -16,4 +16,4 @@ Here are the following step:
 1. First, we have to find n by this operation: n = p * q = 17 * 23 = 391
 2. After n is found, then we can encrypt the message by c = m^e mod n.
    c = 12^65537 mod 391 = 301
-3. Check the python script [here](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Starter/Public-Keys/public-keys.py)
+3. Check the python script [here](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Starter/Public-Keys/solver.py)
