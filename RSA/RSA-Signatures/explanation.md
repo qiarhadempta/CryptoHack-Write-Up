@@ -17,3 +17,5 @@ Signature is a mathematical scheme used to verify the authenticity and integrity
    H(m)' = S^e mod n
    ```
 4. If H(m) = H(m)', the signature is VALID. The message is proven to be authentic and completely unchanged.
+
+For the solution of the challenge above, check the python script [here](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/RSA-Signatures/solver.py)
