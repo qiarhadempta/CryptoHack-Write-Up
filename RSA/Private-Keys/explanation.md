@@ -9,4 +9,4 @@ d is modular inverse of e mod phi. So to find d with python, we can compute it b
 d = pow(e, -1, phi)
 ```
 
-Check the python script [here]()
+Check the python script [here](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Private-Keys/solver.py)
