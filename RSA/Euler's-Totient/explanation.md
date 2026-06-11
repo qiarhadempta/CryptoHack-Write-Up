@@ -6,3 +6,4 @@ We can calculate the Euler's totient $\phi(n)$ by:
 ```bash
 $\phi(n)$ = (p-1)(q-1) 
 ```
+Check for the python script [here](https://github.com/qiarhadempta/CryptoHack-Write-Up/blob/main/RSA/Euler's-Totient/solver.py)
